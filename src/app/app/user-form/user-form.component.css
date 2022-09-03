@@ -1,0 +1,9 @@
+.field-error {
+    border: 2px red solid;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid #9ca3af;
+    border-radius: 0px;
+}
